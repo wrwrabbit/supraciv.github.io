@@ -126,7 +126,7 @@ https://telegra.ph/Spisok-akcij-i-prodelannoj-raboty-dvizheniya-Suprac%D1%96%D1%
 - Ненасильственном уличном противодействии
 - Экономической борьбой
 </details>
+
 [<img src="https://img.youtube.com/vi/UldT78OjlvE/maxresdefault.jpg" width="50%">](https://youtu.be/UldT78OjlvE)
-<p align="center">
-  Мы самі вырашаем свой лёс
-</p>
+
+<p align="center">Мы самі вырашаем свой лёс</p>
