@@ -2,7 +2,7 @@
 <center>Захоўвайце спакой ды вастрыце косы</center>
 
 <p align="center">
-  <img src="supraciv.png" />
+  <img src="Supraciv.png" />
 </p>
 
 <details>
