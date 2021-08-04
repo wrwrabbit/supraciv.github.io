@@ -137,4 +137,3 @@ https://telegra.ph/Spisok-akcij-i-prodelannoj-raboty-dvizheniya-Suprac%D1%96%D1%
 </details>
 
 <center>Мы самі вырашаем свой лёс</center>
-
