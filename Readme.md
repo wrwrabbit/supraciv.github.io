@@ -1,6 +1,7 @@
 # <center>Супраціў</center>
-<center>Захоўвайце спакой ды вастрыце косы</center>
-
+<p align="center">
+  Захоўвайце спакой ды вастрыце косы
+</p>
 <p align="center">
   <img src="Supraciv.png" />
 </p>
