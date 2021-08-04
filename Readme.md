@@ -124,7 +124,6 @@ https://telegra.ph/Spisok-akcij-i-prodelannoj-raboty-dvizheniya-Suprac%D1%96%D1%
 - Информационном фронте
 - Материальном снабжении
 - Ненасильственном уличном противодействии
-- Выведение из строя транспорта карателей (требуется навыки гонять во всю мощь!)
 - Экономической борьбой
 </details>
 [<img src="https://img.youtube.com/vi/UldT78OjlvE/maxresdefault.jpg" width="50%">](https://youtu.be/UldT78OjlvE)
