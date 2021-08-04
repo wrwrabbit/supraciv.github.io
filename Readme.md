@@ -1,10 +1,6 @@
-# Супраціў
-<p align="center">
-  <img src="Supraciv.png" />
-</p>
-<p align="center">
-  Захоўвайце спакой ды вастрыце косы
-</p>
+# <p align="center">Супраціў</p>
+<p align="center"><img src="Supraciv.png" /></p>
+<p align="center">Захоўвайце спакой ды вастрыце косы</p>
 
 <details>
   <summary>Наши цели:</summary>
@@ -47,7 +43,7 @@
 </details>
 
 ---
-## <center>F.A.Q.</center>
+## <p align="center">F.A.Q.</p>
 <details>
   <summary>Кто мы?</summary>
 
@@ -131,7 +127,7 @@ https://telegra.ph/Spisok-akcij-i-prodelannoj-raboty-dvizheniya-Suprac%D1%96%D1%
 - Выведение из строя транспорта карателей (требуется навыки гонять во всю мощь!)
 - Экономической борьбой
 </details>
-
+[<img src="https://img.youtube.com/vi/UldT78OjlvE/maxresdefault.jpg" width="50%">](https://youtu.be/UldT78OjlvE)
 <p align="center">
   Мы самі вырашаем свой лёс
 </p>
