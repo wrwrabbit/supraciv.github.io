@@ -127,6 +127,8 @@ https://telegra.ph/Spisok-akcij-i-prodelannoj-raboty-dvizheniya-Suprac%D1%96%D1%
 - Экономической борьбой
 </details>
 
-<p align="center">[<img src="https://img.youtube.com/vi/UldT78OjlvE/maxresdefault.jpg" width="50%">](https://youtu.be/UldT78OjlvE)</p>
+<p align="center">
+  [<img src="https://img.youtube.com/vi/UldT78OjlvE/maxresdefault.jpg" width="50%">](https://youtu.be/UldT78OjlvE)
+</p>
 
 <p align="center">Мы самі вырашаем свой лёс</p>
