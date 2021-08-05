@@ -24,8 +24,8 @@
 ---
 </details>
 
- 
- 
+<br />  
+&nbsp  
 
 ## <p align="center">Состав объединения:</p>
 
