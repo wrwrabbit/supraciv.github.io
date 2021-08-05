@@ -24,8 +24,9 @@
 ---
 </details>
 
-<br />  
 - [x](#radical)
+
+<br />  
 &nbsp  
 
 ## <p align="center">Состав объединения:</p>
