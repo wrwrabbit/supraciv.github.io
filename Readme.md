@@ -25,7 +25,7 @@
 
 ## <p align="center">Состав объединения:</p>
 
-### <details><summary>ДНС</summary>
+<details><summary>ДНС</summary>
 
 ---
 ![Img](DNS.png)  
@@ -35,7 +35,7 @@
 ---
 </details>
 
-### <details><summary>Буслы Ляцяць</summary>
+<details><summary>Буслы Ляцяць</summary>
 
 ---
 Диверсионные работы, изоляция либо устранение определенных лиц.
@@ -44,7 +44,7 @@
 ---
 </details>
 
-### <details><summary>Кибер-Партизаны</summary>
+<details><summary>Кибер-Партизаны</summary>
 
 ---
 ![Img](Cyber.png)  
