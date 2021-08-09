@@ -252,8 +252,6 @@ https://telegra.ph/Spisok-akcij-i-prodelannoj-raboty-dvizheniya-Suprac%D1%96%D1%
 
 <details><summary>Правила использования Telegram</summary>
 
-<br />  
-
 ---
 
 <details><summary>Настройки:</summary>
