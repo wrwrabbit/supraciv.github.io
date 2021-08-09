@@ -254,6 +254,8 @@ https://telegra.ph/Spisok-akcij-i-prodelannoj-raboty-dvizheniya-Suprac%D1%96%D1%
 
 <br />  
 
+---
+
 <details><summary>Настройки:</summary>
 
 ---
@@ -351,6 +353,9 @@ https://telegra.ph/Spisok-akcij-i-prodelannoj-raboty-dvizheniya-Suprac%D1%96%D1%
 
 ---
 </details>
+
+---
+
 </details>
 
 <details><summary>Приложение зашифрованных смсок — Партизанский-СМС</summary>
